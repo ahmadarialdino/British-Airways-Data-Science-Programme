@@ -1,5 +1,5 @@
 # British Airways Data Science Virtual Experience Programme
-This repository contains the code and resources for the British Airways Data Science virtual internship programme. The programme consists of two tasks focused on customer review analysis and customer buying behavior prediction.
+This repository contains the code and resources for the British Airways Data Science virtual experience programme. The programme consists of two tasks focused on customer review analysis and customer buying behavior prediction.
 
 # Task 1: Customer Review Analysis
 In this task, we will perform customer review analysis by following these steps:
