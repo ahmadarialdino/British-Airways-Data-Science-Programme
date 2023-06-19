@@ -3,7 +3,7 @@ This repository contains the code and resources for the British Airways Data Sci
 
 # Task 1: Customer Review Analysis
 In this task, we will perform customer review analysis by following these steps:
-1. Web scrape customer reviews from the Airline Quality website.
+1. Web scrape customer reviews from the [Airline Quality](https://www.airlinequality.com/airline-reviews/british-airways/) website.
 2. Apply sentiment analysis techniques to classify reviews as positive or negative.
 3. Analyze the sentiment trends over time to understand any changes in customer perceptions.
 4. Extract co-occurring word pairs from negative reviews to identify the most relevant words in context.
