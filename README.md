@@ -21,4 +21,5 @@ For this task, we aim to build a predictive model to understand factors that inf
 
 # Resources
 **Program link**: [Forage](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=87jnjsrQEx6guHcaq)
+
 **Completion Certificate**: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_HEsEzQ2RbLkJtNCZd_1687073836494_completion_certificate.pdf)
